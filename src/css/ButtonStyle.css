@@ -1,0 +1,17 @@
+#button {
+  border-radius: 15px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  outline: none;
+  border: none;
+  margin: 5px;
+}
+button:hover {
+  cursor: pointer;
+}
+svg {
+  margin-top: 10px;
+}
